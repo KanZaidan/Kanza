@@ -1,5 +1,5 @@
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -18,7 +18,7 @@
     }
   </style>
   <title>Love</title>
-<!-- Begin Inspectlet Asynchronous Code -->
+
 <script type="text/javascript">
 (function() {
 window.__insp = window.__insp || [];
